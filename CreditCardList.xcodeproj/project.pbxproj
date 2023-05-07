@@ -20,6 +20,7 @@
 		3311579F2A06EC6D00E1C0C3 /* CardDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3311579E2A06EC6D00E1C0C3 /* CardDetailVC.swift */; };
 		331157A42A078D3900E1C0C3 /* money.json in Resources */ = {isa = PBXBuildFile; fileRef = 331157A32A078D3900E1C0C3 /* money.json */; };
 		336F6D652A079C6B00CCBBF6 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 336F6D642A079C6B00CCBBF6 /* Lottie */; };
+		336F6D672A07F0FF00CCBBF6 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 336F6D662A07F0FF00CCBBF6 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		331157962A06B84000E1C0C3 /* CardListCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardListCell.xib; sourceTree = "<group>"; };
 		3311579E2A06EC6D00E1C0C3 /* CardDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDetailVC.swift; sourceTree = "<group>"; };
 		331157A32A078D3900E1C0C3 /* money.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = money.json; sourceTree = "<group>"; };
+		336F6D662A07F0FF00CCBBF6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				331157822A06B3C700E1C0C3 /* Assets.xcassets */,
 				331157842A06B3C700E1C0C3 /* LaunchScreen.storyboard */,
 				331157872A06B3C700E1C0C3 /* Info.plist */,
+				336F6D662A07F0FF00CCBBF6 /* GoogleService-Info.plist */,
 			);
 			path = CreditCardList;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				331157A42A078D3900E1C0C3 /* money.json in Resources */,
 				331157812A06B3C700E1C0C3 /* Main.storyboard in Resources */,
 				331157982A06B84000E1C0C3 /* CardListCell.xib in Resources */,
+				336F6D672A07F0FF00CCBBF6 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
