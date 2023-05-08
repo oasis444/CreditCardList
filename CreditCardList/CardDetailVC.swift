@@ -50,7 +50,7 @@ class CardDetailVC: UIViewController {
         periodLabel.text = detail.period
         conditionLabel.text = detail.condition
         benefitConditionLabel.text = detail.benefitCondition
-        benefitDetailLabel.text = detail.bedefitDetail
+        benefitDetailLabel.text = detail.benefitDetail
         benefitDateLabel.text = detail.benefitDate
     }
 }
