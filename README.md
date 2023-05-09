@@ -1,3 +1,3 @@
 # CreditCardList
 
-Use: Firebase (Realtime DB, Firestore DB)
+Use: Firebase (Realtime DB, Firestore DB), Lottie
